@@ -1,10 +1,9 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header)
 
-  # Domo
-  
-  ###  🙌 Welcome 🙌 
+  # Dohun Kim
+<!--   ###  🙌 Welcome 🙌  -->
 <!--   <p>I'm a front-end engineer who is in the 4th grade of university.<br/>I want to develop convenient and cool things.✨</p> -->
 
   ### 📚 Techology Stack 📚 
