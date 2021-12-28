@@ -21,7 +21,7 @@
   
 [![Domo's GitHub stats](https://github-readme-stats.vercel.app/api?username=domo9610&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
 
-<h3>•••</h3>
+### •••
 <p align='center'>
 <a href="mailto:dohun243@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dohun243@gmail.com"/></a>&nbsp
 <!--   <a href="https://velog.io/@hammii"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hammii"/></a>&nbsp -->
