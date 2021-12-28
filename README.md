@@ -2,10 +2,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
-  <h3> 🙌 Welcome 🙌 </h3>
+  ###  🙌 Welcome 🙌 </h3>
 <!--   <p>I'm a front-end engineer who is in the 4th grade of university.<br/>I want to develop convenient and cool things.✨</p> -->
 
-  <h3>📚 Techology Stack 📚</h3>  
+  ### 📚 Techology Stack 📚 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -21,7 +21,7 @@
 <!--   <a href="https://www.notion.so/Jang-Hayeong-212012cc89c44ba5bec1911eb1c69cbf"><img src="https://img.shields.io/badge/Notion-232F3E?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Jang-Hayeong-212012cc89c44ba5bec1911eb1c69cbf"/></a> -->
   </p>
 
-  <h3> 🏃🏻‍♀️🏃🏻‍♀️ My stats 🏃🏻‍♀️🏃🏻‍♀ </h3>
+  ### 🏃🏻‍♀️🏃🏻‍♀️ My stats 🏃🏻‍♀️🏃🏻‍♀ 
 
 [![Domo's GitHub stats](https://github-readme-stats.vercel.app/api?username=domo9610&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyj9829"> -->
