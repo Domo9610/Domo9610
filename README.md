@@ -14,7 +14,10 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  
+
+<br/>
+  <br/>
+  <br/>
 [![Domo's GitHub stats](https://github-readme-stats.vercel.app/api?username=domo9610&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyj9829"> -->
