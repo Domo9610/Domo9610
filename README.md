@@ -1,6 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Dohun%20Kim&fontSize=80&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
   <h3> 🙌 Welcome 🙌 </h3>
 <!--   <p>I'm a front-end engineer who is in the 4th grade of university.<br/>I want to develop convenient and cool things.✨</p> -->
