@@ -23,8 +23,6 @@
 <!--   <a href="https://www.notion.so/Jang-Hayeong-212012cc89c44ba5bec1911eb1c69cbf"><img src="https://img.shields.io/badge/Notion-232F3E?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Jang-Hayeong-212012cc89c44ba5bec1911eb1c69cbf"/></a> -->
   </p>
 
-  ### 🏃🏻‍♀️🏃🏻‍♀️ My stats 🏃🏻‍♀️🏃🏻‍♀ 
-
 [![Domo's GitHub stats](https://github-readme-stats.vercel.app/api?username=domo9610&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
 <!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyj9829"> -->
 
