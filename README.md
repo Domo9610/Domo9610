@@ -2,7 +2,9 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
-  ###  🙌 Welcome 🙌 </h3>
+  # Domo
+  
+  ###  🙌 Welcome 🙌 
 <!--   <p>I'm a front-end engineer who is in the 4th grade of university.<br/>I want to develop convenient and cool things.✨</p> -->
 
   ### 📚 Techology Stack 📚 
