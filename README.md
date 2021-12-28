@@ -5,7 +5,8 @@
 <!--   <p>I'm a front-end engineer who is in the 4th grade of university.<br/>I want to develop convenient and cool things.✨</p> -->
 
 <div align='center'>
-
+✨ <b>Front-End Deveoloper</b>
+  
 ### ⚒️ Skiis ⚒️
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=JavaScript&logoColor=white"/>
